@@ -1,0 +1,2 @@
+# Stakinho
+Script pra tudo 
